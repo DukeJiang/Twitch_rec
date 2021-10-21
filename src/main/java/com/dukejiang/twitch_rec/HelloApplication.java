@@ -1,4 +1,4 @@
-package com.example.twitch_rec;
+package com.dukejiang.twitch_rec;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

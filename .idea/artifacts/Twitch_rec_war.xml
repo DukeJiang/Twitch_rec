@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="Twitch_rec-1.0-SNAPSHOT.war">
+    <root id="archive" name="twitchRec-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="Twitch_rec:war exploded" />
     </root>
   </artifact>

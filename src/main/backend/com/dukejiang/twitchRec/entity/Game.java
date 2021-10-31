@@ -5,6 +5,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
+
 //other fields in the response can be safely ignored
 @JsonIgnoreProperties(ignoreUnknown = true)
 //null fields can be skipped and not included
